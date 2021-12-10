@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://entendaantes.com.br/wp-content/uploads/2019/06/jardim-residencial-pequeno-decorado-com-pedras-Foto-Decorando-Casas.jpg');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
